@@ -55,15 +55,16 @@ As a user I want the ability to...
 - Live Streaming capabilites for sporting events
   
 ## Application Wire Frames
-![Home Page](./which-app/src/assets/wf-home.jpg)
-![Search Page](./which-app/src/assets/wf-search.jpg)
-![Result Page](./which-app/src/assets/wf-result.jpg)
+
+![Home Page](./public/Assets/wf-home.png "HomePageWireFrame")
+![Search Page](./public/Assets/wf-search.png "SearchPageWireFrame")
+![Result Page](./public/Assets/wf-result.png "ResultPageWireFrame")
 
 ## Schedule
 - Monday 1/23: Brainstorm the idea with the team, decide on roles, set up github repos, decide on tech stack, set up trello board, set up Readme, start wire frames, research on Vue and TypeScript
-- Tuesday 1/24: Polish readme's, research on Vue and TypeScript 
-- Wednesday 1/25: Research on Vue and TypeScript
-- Thursday 1/26: Start getting front-end set up
+- Tuesday 1/24: Start getting front-end set up with server running and do more research on Vue and TypeScript 
+- Wednesday 1/25: 
+- Thursday 1/26: 
 - Friday 1/27: 
 - Monday 1/29: 
 - Tuesday 1/31: 
