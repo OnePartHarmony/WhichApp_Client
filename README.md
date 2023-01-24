@@ -56,9 +56,9 @@ As a user I want the ability to...
   
 ## Application Wire Frames
 
-![Home Page](./public/Assets/wf-home.png "HomePageWireFrame")
-![Search Page](./public/Assets/wf-search.png "SearchPageWireFrame")
-![Result Page](./public/Assets/wf-result.png "ResultPageWireFrame")
+![Home Page](./public/Assets/wf-home.jpg "HomePageWireFrame")
+![Search Page](./public/Assets/wf-search.jpg "SearchPageWireFrame")
+![Result Page](./public/Assets/wf-result.jpg "ResultPageWireFrame")
 
 ## Schedule
 - Monday 1/23: Brainstorm the idea with the team, decide on roles, set up github repos, decide on tech stack, set up trello board, set up Readme, start wire frames, research on Vue and TypeScript
